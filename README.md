@@ -1,2 +1,2 @@
-# ADphotos-downloader
-Downloads user photos from AD to a network share
+# Active Directory User Photos Downloader
+Retrieves user jpegPhotos from AD, downloads them onto a network share and deletes the old ones of users who no longer exist. This is designed to be run as a scheduled task with a SMSA account.
